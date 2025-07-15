@@ -42,6 +42,7 @@ See the [CHANGELOG.md](./CHANGELOG.md) for a complete list of updates, fixes, an
 - **Frage Production** - Core emulator development & systems restoration.  
 - **Original WarZ Developers (OP Productions / Sergey Titov)** - Creators of the game that inspired this revival.  
 - Special thanks to the **RageZone community** for early documentation, tools, and file resources.
+- isopod, and the ONMACRO development group.
 
 ---
 
@@ -64,3 +65,4 @@ Stay tuned for future updates.
 This is a private project.  
 Not affiliated with OP Productions, Arktos Entertainment, or Sergey Titov.  
 No commercial use intended.
+No microtransactions included, completely free-to-play game.
